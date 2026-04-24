@@ -11,7 +11,7 @@ I'm currently learning Flutter & Dart with help from <a href="https://github.com
 final enclosed = Developer(
     name: 'Andrey',
     age: 22,
-    code: ['Dart', 'HTML', 'CSS', 'C++', TypeScript, JavaScript],
+    code: ['Dart', 'HTML', 'CSS', 'C++', 'TypeScript', 'JavaScript'],
     tools: ['Flutter', 'Bootstrap 4', 'Godot Engine', 'Unreal Engine 4', 'Qt Designer', ],
     architecture: ['Clean Architecture', 'MVVM'],
   );
